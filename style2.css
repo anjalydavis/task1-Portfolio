@@ -1,0 +1,61 @@
+.wlcm{
+    
+    font-size: 50px;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to left, #12d6e1, #5f0eaf);
+    color: transparent;
+    background-clip: text;
+
+}
+.name{
+    color:aliceblue;
+    font: size 20px;
+    text-align: center;
+}
+.parag{
+    color:aliceblue;
+    text-align: center;
+    font-size: 18px;
+}
+.contact{
+    color: #97d1e9;
+    text-align: left;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px #000000;
+    width:max-content;
+}
+.no{
+    color: #FFFFFF;
+    text-align:justify;
+}
+.email{
+    color: #FFFFFF;
+    text-align: justify;
+}
+.pfp {
+    float:justify;
+    width: 33;
+    padding: 5px;
+    border-radius: 100%;
+    text-align:right;
+}
+.skills{
+    color: rgb(151, 209, 233);
+    text-align: justify;
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px #000000;
+    width:fit-content;
+}
+.list{
+    color:#FFFFFF;
+    text-align:justify;
+}
